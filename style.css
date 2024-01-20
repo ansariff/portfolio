@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.box{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 15em;
+}
+.box h1{
+    font-family: monospace;
+}
