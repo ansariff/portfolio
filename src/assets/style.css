@@ -527,7 +527,15 @@ main {
 
 .service-icon-box { margin-bottom: 10px; }
 
-.service-icon-box img { margin: auto; }
+.service-icon-box img { 
+  margin: auto;
+  filter: invert(77%) sepia(61%) saturate(1271%) hue-rotate(359deg) brightness(102%) contrast(96%);
+  transition: 0.25s ease;
+}
+
+.service-item:hover .service-icon-box img {
+  filter: invert(77%) sepia(61%) saturate(1571%) hue-rotate(359deg) brightness(108%) contrast(102%);
+}
 
 .service-content-box { text-align: center; }
 
