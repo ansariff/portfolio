@@ -25,11 +25,10 @@ export default function About() {
             <div className="service-content-box">
               <h4 className="h4 service-item-title">HTML</h4>
               <p className="service-item-text">
-                The most modern and high-quality design made at a professional level.
+                The most modern and high-quality design made at a professional level..
               </p>
             </div>
           </li>
-
           <li className="service-item">
             <div className="service-icon-box">
               <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" alt="CSS3 icon" width="40" />
