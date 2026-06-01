@@ -7,7 +7,7 @@ export default function About() {
 
       <section className="about-text">
         <p>
-          Good Morning, I'm Arif Ansari, a 2nd-year Civil Engineering student at IIT Delhi, and an enthusiastic AI/ML and Full Stack Developer from New Delhi, India. I’m deeply interested in artificial intelligence, machine learning, development, and data structures and algorithms.
+          Goood Morning, I'm Arif Ansari, a 2nd-year Civil Engineering student at IIT Delhi, and an enthusiastic AI/ML and Full Stack Developer from New Delhi, India. I’m deeply interested in artificial intelligence, machine learning, development, and data structures and algorithms.
         </p>
 
         <p>
