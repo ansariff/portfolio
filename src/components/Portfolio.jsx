@@ -7,7 +7,7 @@ const projects = [
     category: "frontend",
     alt: "Nike Store",
     link: "https://github.com/ansariff/Nike-Store",
-    description: "Nike Store completed with React + Tailwind CSS."
+    description: "Nike Store completed with React + Tailwind CS."
   },
   {
     title: "Dashboard",
